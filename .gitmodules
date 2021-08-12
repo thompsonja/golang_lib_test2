@@ -1,0 +1,4 @@
+[submodule "golang_lib_test1"]
+	path = golang_lib_test1
+	url = https://github.com/thompsonja/golang_lib_test1
+	branch = main
